@@ -4,7 +4,7 @@ version = "0.1.2"
 edition = "2024"
 description = "small tool to help detect logic errors by showing all ? used"
 license = "Apache-2.0"
-repository = "https://github.com/SomeFlyingThing/TraceHell.git"
+repository = "https://github.com/CosmicalBit/TraceHell.git"
 
 [dependencies]
 anyhow = "1.0.104"
